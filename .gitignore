@@ -1,4 +1,5 @@
-/media
+#ignore media
+acme_project/media
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
